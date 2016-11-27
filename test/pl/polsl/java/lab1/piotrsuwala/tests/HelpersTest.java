@@ -13,13 +13,6 @@ import pl.polsl.java.lab1.piotrsuwala.exceptions.ParamsOutOfBound;
 public class HelpersTest {
     Helpers helpers;
     
-    @Test(expected=ParamsOutOfBound.class)
-    public void testCheckIfArgsOutOfBoundsFail() {
-        helpers = new Helpers();
-        String[] testTable = {"string1", "string2"};
-        helpers.checkIfArgsOutOfBounds(testTable);
-    }
-    
     @Test(expected=NegativeSize.class)
     public void testCheckIfArgsNegaticeFail() {
         helpers = new Helpers();
@@ -27,12 +20,6 @@ public class HelpersTest {
         helpers.checkIfArgsNegative(testTable);
     }
     
-    @Test
-    public void testCheckIfArgsOutOfBoundsSuccess() {
-        helpers = new Helpers();
-        String[] testTable = {"string1", "string2", "string3"};
-        helpers.checkIfArgsOutOfBounds(testTable);
-    }
     
     @Test
     public void testCheckIfArgsNegaticeSuccess() {

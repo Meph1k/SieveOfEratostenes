@@ -41,4 +41,18 @@ public class SieveOfEratostenes {
     public int[] getPrimes() {
         return primes;
     }
+    
+    /**
+     * checks whether a single value is prime
+     * @param number number to be checked if its prime
+     * @return true if prime, false if not prime
+     */
+    
+    public Boolean isPrime(int number) {
+        if (0 == number || 1 == number) return false;
+        for (int i = 2; i < number; i++) {
+            if (number % i == 0 && i != number) return false;
+        }
+        return true;
+    }
 }

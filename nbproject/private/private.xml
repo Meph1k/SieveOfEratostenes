@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
-    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/pl/polsl/java/lab1/piotrsuwala/model/RowsAndColumns.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>19</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/Piotr/Desktop/MathematicalProblems/src/pl/polsl/java/lab1/piotrsuwala/model/KarnaughMap4x4.java</file>
+            <file>file:/C:/Users/Piotr/Desktop/MathematicalProblems/src/pl/polsl/java/lab1/piotrsuwala/model/SieveOfEratostenes.java</file>
+            <file>file:/C:/Users/Piotr/Desktop/MathematicalProblems/src/pl/polsl/java/lab1/piotrsuwala/model/KarnaughMapPrimes.java</file>
+            <file>file:/C:/Users/Piotr/Desktop/MathematicalProblems/src/pl/polsl/java/lab1/piotrsuwala/model/LogicValuesGroups.java</file>
             <file>file:/C:/Users/Piotr/Desktop/MathematicalProblems/src/pl/polsl/java/lab1/piotrsuwala/model/FibonacciSequence.java</file>
+            <file>file:/C:/Users/Piotr/Desktop/MathematicalProblems/src/pl/polsl/java/lab1/piotrsuwala/model/RowsAndColumns.java</file>
             <file>file:/C:/Users/Piotr/Desktop/MathematicalProblems/src/pl/polsl/java/lab1/piotrsuwala/model/Helpers.java</file>
-            <file>file:/C:/Users/Piotr/Desktop/MathematicalProblems/src/pl/polsl/java/lab1/piotrsuwala/view/UserInterface.java</file>
             <file>file:/C:/Users/Piotr/Desktop/MathematicalProblems/src/pl/polsl/java/lab1/piotrsuwala/view/Main.java</file>
             <file>file:/C:/Users/Piotr/Desktop/MathematicalProblems/src/pl/polsl/java/lab1/piotrsuwala/model/CollatzConjecture.java</file>
         </group>
